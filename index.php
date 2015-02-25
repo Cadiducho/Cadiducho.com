@@ -12,7 +12,7 @@
 <body>
   <nav class="light-blue lighten-1" role="navigation">
     <div class="container">
-      <div class="nav-wrapper"><a id="logo-container" href="#" class="brand-logo">Cadiducho.com</a>
+      <div class="nav-wrapper"><a id="logo-container" class="brand-logo">Cadiducho</a>
         <ul class="right">
             <li><a href="http://Cadiducho.com/">Web</a></li>
             <li><a href="http://blog.cadiducho.com/">Blog</a></li>
@@ -31,7 +31,7 @@
   <div class="section no-pad-bot" id="index-banner">
     <div class="container">
       <br><br>
-      <h1 class="header center orange-text">Cadiducho.com</h1>
+      <h1 class="header center teal-text text-lighten-2">Cadiducho<!--.com--></h1>
       <div class="row center">
         <h5 class="header col s12 light">Rediseño de la web de inicio basado en Material Design</h5>
       </div>
@@ -61,7 +61,7 @@
   <footer class="page-footer orange">
     <div class="container">
       <div class="row">
-        <div class="col l7 s12">
+        <div class="col l6 s12">
           <h5 class="white-text">Cadiducho.com</h5>
           <p class="grey-text text-lighten-4">Web de proyectos realizados por <a class="orange-text text-lighten-3" href="https://twitter.com/Cadiducho">Cadiducho</a>. 
 		  </br>Toda la web está hecha sin animo de lucro. No contenemos anuncios ni vendemos tu información.
@@ -69,7 +69,7 @@
 
 
         </div>
-        <div class="col offset-l3 s14">
+        <div class="right">
           <h5 class="white-text">Navegación</h5>
           <ul>
             <li><a class="white-text" href="#!">Inicio</a></li>
@@ -92,7 +92,7 @@
   <!--  Scripts-->
   <script src="https://code.jquery.com/jquery-2.1.3.min.js"></script>
   <script src="datos/js/materialize.js"></script>
-  <!--<script src="datos/js/init.js"></script>-->
+  <script src="datos/js/inicio.js"></script>
 
   </body>
 </html>
