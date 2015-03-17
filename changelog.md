@@ -1,4 +1,9 @@
 ## Changelog
+- v0.2 (17 Mar. 2015)
+    - Agregado código inicial de PHP
+    - Separado código HTML en diversos includes
+- v0.1.1 (2 Mar. 2015)
+    - Arreglado el header de texto 'Cadiducho.com' para que sea visible correctamente en moviles
 - v0.1.0 (26 Feb. 2015)
     - Diseño inicial de la web, el template.
     - Materialize actualizado a versión 0.95.3
