@@ -1,4 +1,6 @@
 ## Changelog
+- v0.2.1 (17 Mar.2015)
+    - El header ahora muestra el nombre de la página en la que te encuentras
 - v0.2 (17 Mar. 2015)
     - Agregado código inicial de PHP
     - Separado código HTML en diversos includes

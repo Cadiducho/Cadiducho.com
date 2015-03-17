@@ -1,6 +1,10 @@
 <nav class="light-blue lighten-1" role="navigation">
         <div class="container">
-            <div class="nav-wrapper"><a id="logo-container" class="brand-logo">Cadiducho.com</a>
+            <?php
+            $inicio = "Cadiducho.com ";
+            $texto = $inicio . (pagina("contacto") ? " | Contacto" : (pagina("acerca") ? " | Acerca" : (pagina("cookies") ? "| Cookies" : "")));
+            ?>
+            <div class="nav-wrapper"><a id="logo-container" class="brand-logo"> <?php echo $texto; ?></a>
                 <ul class="right">
                     <li><a href="http://Cadiducho.com/">Web</a></li>
                     <li><a href="http://blog.cadiducho.com/">Blog</a></li>
