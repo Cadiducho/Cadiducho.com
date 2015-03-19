@@ -4,6 +4,11 @@
       <h1 class="header center textoInicio">Cadiducho.com</h1>
       <div class="row center">
         <h5 class="header col s12 light">Rediseño de la web de inicio basado en Material Design</h5>
+        <div class="github-commit">Última Commit en Github:
+                <a href="" class="sha"></a>
+                <span class="date"></span>
+                <a id="github-button" href="https://github.com/Cadiducho/Cadiducho.com" class="btn-flat right grey-text text-lighten-5 waves-effect waves-light hide-on-small-only">Github</a>
+        </div>
       </div>
     </div>
 	<div class="divider"></div>

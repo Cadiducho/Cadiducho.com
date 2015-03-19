@@ -1,5 +1,9 @@
 ## Changelog
-- v0.2.1 (17 Mar.2015)
+- v0.2.2 (19 Mar. 2015)
+    - Añadido lector automático de últimas commits (Será usado en proximos proyectos)
+    - Agregado el plugin de jQuery 'TimeAgo'
+    - Traducido el plugin para su uso en el castellano
+- v0.2.1 (17 Mar. 2015)
     - El header ahora muestra el nombre de la página en la que te encuentras
 - v0.2 (17 Mar. 2015)
     - Agregado código inicial de PHP

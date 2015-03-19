@@ -41,6 +41,7 @@ function pagina($n) {
 
   <!--  Scripts-->
   <script src="https://code.jquery.com/jquery-2.1.3.min.js"></script>
+  <script src="datos/js/timeAgo.js"></script>
   <script src="datos/js/materialize.js"></script>
   <script src="datos/js/inicio.js"></script>
 

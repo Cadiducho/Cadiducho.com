@@ -1,4 +1,8 @@
-
 .textoInicio {
     font-size: 300%;
+}
+
+.sha {
+  color: #0040FF;
+  margin: 0 6px 0 6px;
 }

@@ -2,12 +2,11 @@
     <div class="container">
         <div class="row">
             <div class="col l6 s12">
-            <h5 class="white-text">Cadiducho.com</h5>
-            <p class="grey-text text-lighten-4">Web de proyectos realizados por <a class="orange-text text-lighten-3" href="https://twitter.com/Cadiducho">Cadiducho</a>. 
-		</br>Toda la web está hecha sin animo de lucro. No contenemos anuncios ni vendemos tu información.
-		</br>Al seguir navegando estás aceptando el uso de <a class="orange-text text-lighten-3" href="https://twitter.com/Cadiducho">Cookies</a> en nuestra web</p>
-
-
+                <h5 class="white-text">Cadiducho.com</h5>
+                <p class="grey-text text-lighten-4">Web de proyectos realizados por <a class="orange-text text-lighten-3" href="https://twitter.com/Cadiducho">Cadiducho</a>. 
+                    </br>Toda la web está hecha sin animo de lucro. No contenemos anuncios ni vendemos tu información.
+                    </br>Al seguir navegando estás aceptando el uso de <a class="orange-text text-lighten-3" href="https://twitter.com/Cadiducho">Cookies</a> en nuestra web
+                </p>
             </div>
             <div class="right">
                 <h5 class="white-text">Navegación</h5>
