@@ -1,4 +1,8 @@
 ## Changelog
+- v0.2.3 (21 Mar. 2015)
+    - Agregado fondo diseñado por VHSGrafiX
+    - Eliminado código de BitBucket (si es público, uso GitHub)
+    - Eliminado botón desplazado (y erroneo) del link directo a la última commit
 - v0.2.2 (19 Mar. 2015)
     - Añadido lector automático de últimas commits (Será usado en proximos proyectos)
     - Agregado el plugin de jQuery 'TimeAgo'

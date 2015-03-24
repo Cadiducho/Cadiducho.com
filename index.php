@@ -24,20 +24,24 @@ function pagina($n) {
   <link href="datos/css/font-awesome.min.css" rel="stylesheet">
   <link href="datos/css/inicio.css" type="text/css" rel="stylesheet" media="screen,projection"/>
 </head>
-<body>  
-    <?php
+<body>
     
-    include ("datos/paginas/header.php");
-    
-    if (pagina("contacto")) {
-        echo "contacto :D"; //
-    } else {
-        include("datos/paginas/pInicio.php");
-    }
-       
-    include ("datos/paginas/footer.php");
-    
-    ?>
+        <?php
+
+        include ("datos/paginas/header.php");
+        ?>
+    <div class="section no-pad-bot introWeb" id="index-banner">
+        <?
+        if (pagina("contacto")) {
+            echo "contacto :D"; //
+        } else {
+            include("datos/paginas/pInicio.php");
+        }
+        ?>
+    </div>
+        <?
+        include ("datos/paginas/footer.php");
+        ?>
 
   <!--  Scripts-->
   <script src="https://code.jquery.com/jquery-2.1.3.min.js"></script>
