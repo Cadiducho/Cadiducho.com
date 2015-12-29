@@ -1,0 +1,12 @@
+/**
+ * CSS del Inicio de cadiducho.com
+ *
+ * Made by @Cadiducho
+ */
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+	font-size: inherit;
+}

@@ -1,4 +1,7 @@
 ## Changelog
+- v1.0 (29 Dic. 2015)
+	- Retomo el proyecto. Sincronización de todo con GitHub
+	
 - v0.2.3 (21 Mar. 2015)
     - Agregado fondo diseñado por VHSGrafiX
     - Eliminado código de BitBucket (si es público, uso GitHub)
