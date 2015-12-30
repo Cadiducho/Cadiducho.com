@@ -27,12 +27,12 @@
   </nav>
   
   <div class="fixed-action-btn" style="bottom: 45px; right: 24px;">
-    <a class="btn-floating btn-large light-blue darken-3">
+    <a class="btn-floating btn-large indigo darken-3">
       <i class="large material-icons">share</i>
     </a>
     <ul>
-      <li><a class="btn-floating light-blue darken-2" href="mailto://cadiducho@gmail.com"><i class="material-icons">mail</i></a></li>
-	  <li><a class="btn-floating light-blue darken-2" href="https://twitter.com/Cadiducho"><i class="fa fa-twitter"></i></a></li>
+      <li><a class="btn-floating tooltipped green darken-4" data-position="left" data-delay="10" data-tooltip="¡Mándame un Mail!" href="mailto://cadiducho@gmail.com"><i class="material-icons">mail</i></a></li>
+	  <li><a class="btn-floating tooltipped white" data-position="left" data-delay="10" data-tooltip="Mi twitter" href="https://twitter.com/Cadiducho"><i class="fa fa-twitter blue-text"></i></a></li>
     </ul>
   </div>
   
@@ -59,7 +59,7 @@
             <h2 class="center light-blue-text"><i class="material-icons">done_all</i></h2>
             <h5 class="center">Próximos pasos</h5>
 
-            <p class="light">Habiendo ya reehecho el diseño HTML para la nueva web, el próximo paso es terminar de pulirlo y extenderlo al generador de contraseñas. Una vez logrado esto, comenzaré a desarrollar un blog desde cero y de código abierto</p>
+            <p class="light">Habiendo ya rehecho el diseño HTML para la nueva web, el próximo paso es terminar de pulirlo y extenderlo al generador de contraseñas. Una vez logrado esto, comenzaré a desarrollar un blog desde cero y de código abierto</p>
           </div>
         </div>
 
@@ -87,7 +87,7 @@
     </div>
   </div>
 
-  <footer class="page-footer orange">
+  <footer class="page-footer teal">
     <div class="container">
       <div class="row">
         <div class="col s6">
@@ -107,7 +107,7 @@
     </div>
     <div class="footer-copyright">
       <div class="container">
-      Made by <a class="orange-text text-lighten-3" href="http://twitter.com/Cadiducho">@Cadiducho</a> &copy; 2013 - 2016
+      Made by <a class="deep-purple-text text-darken-1" href="http://twitter.com/Cadiducho">@Cadiducho</a> &copy; 2013 - 2016
       </div>
     </div>
   </footer>
