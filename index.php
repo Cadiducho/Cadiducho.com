@@ -59,7 +59,8 @@
             <h2 class="center light-blue-text"><i class="material-icons">done_all</i></h2>
             <h5 class="center">Próximos pasos</h5>
 
-            <p class="light">Habiendo ya rehecho el diseño HTML para la nueva web, el próximo paso es terminar de pulirlo y extenderlo al generador de contraseñas. Una vez logrado esto, comenzaré a desarrollar un blog desde cero y de código abierto</p>
+            <p class="light">Habiendo ya rehecho el diseño HTML para la nueva web, el próximo paso es terminar de pulirlo y extenderlo al generador de contraseñas. 
+			Una vez logrado esto, comenzaré a desarrollar un blog desde cero y de código abierto.</p>
           </div>
         </div>
 
@@ -68,7 +69,8 @@
             <h2 class="center light-blue-text"><i class="material-icons">code</i></h2>
             <h5 class="center">Free Code!</h5>
 
-            <p class="light">Es imposible publicar todos los códigos por motivos de seguridad y en otros casos por que es esa 'exclusividad' la que te da de comer. </br>No pretendo tener ningún ingreso con esta web, por lo que me comprometo a que más del 50% de los códigos de esta web estén publicados en <a href="https://github.com/Cadiducho">GitHub</a></p>
+            <p class="light">Es imposible publicar todos los códigos por motivos de seguridad y en otros casos por que es esa 'exclusividad' la que te da de comer. 
+			</br>No pretendo tener ningún ingreso con esta web, por lo que me comprometo a que más del 50% de los códigos de esta web estén publicados en <a href="https://github.com/Cadiducho">GitHub</a>.</p>
           </div>
         </div>
 
