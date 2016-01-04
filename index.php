@@ -39,7 +39,7 @@
   <div class="section no-pad-bot" id="index-banner">
     <div class="container">
       <br><br>
-      <h1 class="header center blue-text darken-3">Cadiducho.com</h1>
+      <h1 class="header center blue-text darken-3">Cadiducho<font size="0"> </font><a class="indigo-text">.</a>com</h1>
       <div class="row center">
         <h5 class="header col s12 light">Sitio web para proyectos y pruebas de Cadiducho</h5>
       </div>
@@ -90,13 +90,14 @@
   </div>
 
   <footer class="page-footer teal">
-    <div class="container">
+	<div class="container">
       <div class="row">
-        <div class="col s6">
+        <div class="col l6 s12">
           <h5 class="white-text">Sobre mi</h5>
-          <p class="grey-text text-lighten-4">Soy un chico de las profundidades de Castilla que desarrolla proyectos por ocio. A la derecha encontrarás los proyectos activos actualmente</p>
+          <p class="grey-text text-lighten-4">Soy un chico de las profundidades de Castilla que desarrolla proyectos por ocio. 
+		  </br>A la derecha encontrarás los proyectos activos actualmente</p>
         </div>
-        <div class="col s5 push-s3">
+        <div class="col l4 offset-l2 s12">
           <h5 class="white-text">Proyectos recientes</h5>
           <ul>
             <li><a class="white-text" href="https://github.com/Cadiducho/Minegram">Minegram</a></li>
